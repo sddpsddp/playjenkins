@@ -23,10 +23,6 @@ pipeline {
       }
     }
 
-<<<<<<< HEAD
-=======
-    
->>>>>>> 4a712ee758bcf5323353394e00b18e14fd8d2089
 
     stage('Deploy App') {
       steps {
